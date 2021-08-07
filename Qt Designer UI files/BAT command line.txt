@@ -1,0 +1,1 @@
+cd C:\Users\Murti\Desktop\COMPSYS 302\Qt Designer & python -m PyQt5.uic.pyuic -x "Mainwindow.ui" -o "Mainwindow.py" & python -m PyQt5.uic.pyuic -x "Handwritten Digit Recognizer.ui" -o "Handwritten Digit Recognizer.py"
