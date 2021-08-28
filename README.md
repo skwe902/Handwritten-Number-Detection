@@ -12,6 +12,8 @@ The model was sourced from: https://www.kaggle.com/sdelecourt/cnn-with-pytorch-f
 
 To run the program, run the "main.py" python file using a IDE/code editor such as Visual Studio Code.
 
+You can find the report under report.pdf
+
 The program was written/run with Python 3.8.5. Future versions of python may work.
 
 Before running the program, make sure you have following installed in your machine:
